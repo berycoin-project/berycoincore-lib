@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "berycoincore-lib",
+  "main": "./berycoincore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://berycoin.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "BERYCOIN <foundation@berycoin.org>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your berycoin project.",
   "moduleType": [
     "globals"
   ],
